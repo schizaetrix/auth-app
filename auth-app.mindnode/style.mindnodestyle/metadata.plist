@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>MindNode</string>
+	<key>id</key>
+	<string>E1EAA3E7-57A6-404B-90FA-7D3BE909E1C8</string>
+	<key>title</key>
+	<string>VSC MonZen</string>
+	<key>version</key>
+	<integer>3</integer>
+</dict>
+</plist>
